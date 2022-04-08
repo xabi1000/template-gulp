@@ -1,0 +1,14 @@
+/*
+En este archivo van todos los estilos de etiqueta.
+
+Véalo como su normalize personalizado
+*/
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
